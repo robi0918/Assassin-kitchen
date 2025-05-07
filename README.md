@@ -2,7 +2,7 @@
 
 ## <a href="https://nextjs.org/" target="_blank">Next.js</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://ant.design/" target="_blank">Ant Design</a> + <a href="https://motion.dev/" target="_blank">Motion One</a>.
 
-Restaurant menu with the ability to update menu items in real-time at scheduled intervals, it provides a dynamic experience for customers. Each menu item is presented with an appealing design, enhancing its visual appeal and making it easy for customers to explore. <a href="https://assassinkitchen.vercel.app" target="_blank">Live Demo</a>
+Assassin-kitchen with the ability to update menu items in real-time at scheduled intervals, it provides a dynamic experience for customers. Each menu item is presented with an appealing design, enhancing its visual appeal and making it easy for customers to explore. <a href="https://assassinkitchen.vercel.app" target="_blank">Live Demo</a>
 
 
 ## Technologies used
