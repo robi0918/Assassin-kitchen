@@ -45,13 +45,13 @@ Restaurant menu with the ability to update menu items in real-time at scheduled 
 1. Clone this repositoy:
 
 ```bash
-git clone https://github.com/robi0918/restaurant-menu.git
+git clone https://github.com/robi0918/Assassin-kitchen.git
 ```
 
 2. Go into project
 
 ```bash
-cd restaurant-menu
+cd Assassin-kitchen
 ```
 
 3. Install dependencies

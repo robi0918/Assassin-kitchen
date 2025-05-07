@@ -20,7 +20,7 @@ export const FooterComponent = () => {
         href="https://github.com/robi0918"
         target="_blank"
       >
-        <Paragraph>Created by Robi Belaw ©2023</Paragraph>
+        <Paragraph>Created by Robin Mulder ©2023</Paragraph>
       </Link>
     </Footer>
   );
